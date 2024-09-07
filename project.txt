@@ -1,0 +1,9 @@
+TRİGGER KULLANIMI 
+***************************
+Bu program, bir kitap yönetim sistemi oluşturarak kitap ekleme, silme, ve listeleme işlemlerini yönetiyor. SQL veritabanıyla bağlantı kurularak, kitap bilgileri (adı, yazar, sayfa sayısı, yayın, tür) bir tabloya kaydediliyor. Aynı zamanda, kitap silme işlemi de yapılabiliyor ve veritabanındaki toplam kitap sayısı programda gösteriliyor.
+
+Kullanılan Trigger'lar:
+Azalt: Bir kitap silindiğinde tetiklenir ve gerekli işlemleri gerçekleştirir.
+Arttır: Yeni bir kitap eklendiğinde tetiklenir ve kitap sayısını artıran işlemleri yapar.
+Yedek: Silienen veriyi yedekleme amacıyla kullanılır; kitap bilgilerini yedekler.
+Bu trigger'lar, veritabanındaki işlemleri otomatik hale getirerek sistemin düzgün çalışmasını sağlar.

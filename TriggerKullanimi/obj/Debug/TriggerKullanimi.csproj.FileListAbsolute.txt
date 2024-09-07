@@ -1,0 +1,10 @@
+C:\Users\Semiha\Desktop\TriggerKullanimi\TriggerKullanimi\bin\Debug\TriggerKullanimi.exe.config
+C:\Users\Semiha\Desktop\TriggerKullanimi\TriggerKullanimi\bin\Debug\TriggerKullanimi.exe
+C:\Users\Semiha\Desktop\TriggerKullanimi\TriggerKullanimi\bin\Debug\TriggerKullanimi.pdb
+C:\Users\Semiha\Desktop\TriggerKullanimi\TriggerKullanimi\obj\Debug\TriggerKullanimi.csproj.AssemblyReference.cache
+C:\Users\Semiha\Desktop\TriggerKullanimi\TriggerKullanimi\obj\Debug\TriggerKullanimi.Form1.resources
+C:\Users\Semiha\Desktop\TriggerKullanimi\TriggerKullanimi\obj\Debug\TriggerKullanimi.Properties.Resources.resources
+C:\Users\Semiha\Desktop\TriggerKullanimi\TriggerKullanimi\obj\Debug\TriggerKullanimi.csproj.GenerateResource.cache
+C:\Users\Semiha\Desktop\TriggerKullanimi\TriggerKullanimi\obj\Debug\TriggerKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\Semiha\Desktop\TriggerKullanimi\TriggerKullanimi\obj\Debug\TriggerKullanimi.exe
+C:\Users\Semiha\Desktop\TriggerKullanimi\TriggerKullanimi\obj\Debug\TriggerKullanimi.pdb
